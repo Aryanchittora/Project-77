@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+p {
+    color: darkblue;
+}
+hr {
+    background-color: red;
+    height: 3px;
+}
+.Header {
+    color: rgba(173, 20, 20, 0.815);
+}
